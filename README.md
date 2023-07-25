@@ -1,7 +1,7 @@
 # 💫 About Me:
 Data Scientist from Turkey<br>I am also interested in backend development<br>
 
-
+[![](https://visitcount.itsvg.in/api?id=berkeodn&icon=0&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berkeodn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/berkeoden) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/berkeodn) 
 
@@ -14,8 +14,5 @@ Data Scientist from Turkey<br>I am also interested in backend development<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=berkeodn&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=berkeodn&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
