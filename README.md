@@ -1,5 +1,5 @@
 ## 💫 About Me:
-        Data Scientist from Turkey<br>I am also interested in backend development<br>
+Data Scientist from Turkey<br>I am also interested in backend development<br>
 
 [![](https://visitcount.itsvg.in/api?id=berkeodn&icon=0&color=12)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
